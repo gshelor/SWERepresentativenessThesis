@@ -1,0 +1,1 @@
+This repository contains code from my work for my masters thesis titled "Evaluating the Representativeness of Snow Sampling Sites in the Western US and Alaska" and the subsequent paper I am attempting to get published with it.
